@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "ok";
+}
+
+
+<html>
+<head>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <h2>Index</h2>
+    <fieldset>
+        <div>
+            <table id="tbldata">
+                <tr>
+                    <th>Id</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Salary</th>
+                    <th>City</th>
+
+                </tr>
+
+
+            </table>
+        </div>
+        <script>
+            $(function(){
+                $.get("get_data",{},function(data){
+                    var row;
+                    $.each(data, function (i, v1) {
+                        row += "<tr><td>" + v1.id + "</td></tr>" + "<tr><td>" + v1.FirstName + "</td></tr>" +
+
+"<tr><td>" + v1.LastName + "</td></tr>" + "<tr><td>" + v1.Salary + "</td></tr>" + "<tr><td>" + v1.City +
+
+"</td></tr>"
+
+                    });
+                    $("tbldata").append(row);
+                })
+            })
+        </script>
+
+    </fieldset>
+
+
+
+
+
+
+
+
+</body>
+</html>

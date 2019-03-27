@@ -1,0 +1,66 @@
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\csc.exe
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\System.Collections.Immutable.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\vbc.exe
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\VBCSCompiler.exe
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\roslyn\VBCSCompiler.exe.config
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\InsertjQuery.dll.config
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\InsertjQuery.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\InsertjQuery.pdb
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Helpers.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Mvc.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Razor.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Deployment.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Razor.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Razor.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Deployment.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Razor.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Helpers.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\bin\System.Web.Mvc.xml
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.csprojResolveAssemblyReference.cache
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.dll
+c:\users\joha\documents\visual studio 2015\Projects\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.pdb
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\csc.exe
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\System.Collections.Immutable.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\System.Reflection.Metadata.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\vbc.exe
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\VBCSCompiler.exe
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\roslyn\VBCSCompiler.exe.config
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\InsertjQuery.dll.config
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\InsertjQuery.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\InsertjQuery.pdb
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\Microsoft.Web.Infrastructure.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Helpers.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Mvc.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Razor.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Deployment.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Razor.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Razor.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Deployment.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Webpages.Razor.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Helpers.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\bin\System.Web.Mvc.xml
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.csprojResolveAssemblyReference.cache
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.dll
+D:\AHSAN_PROJECT\MY_PROJECTS_AHSAN\New folder\InsertjQuery\InsertjQuery\InsertjQuery\obj\Debug\InsertjQuery.pdb

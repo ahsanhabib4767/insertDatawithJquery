@@ -1,0 +1,149 @@
+﻿
+@{
+    ViewBag.Title = "Ahsan";
+}
+<html>
+<head>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    
+</head>
+<body>
+<h2>Index</h2>
+
+<fieldset>
+    <form>
+       
+            <div class="form-horizontal">
+                
+                <div class="editor-label">
+                    <input type="text" id="id" />
+                </div>
+                <div class="editor-label">
+                    Name
+                </div>
+                <div class="editor-label">
+                    <input type="text" id="txtName1" />
+                </div>
+                <div class="editor-label">
+                    last Name
+                </div>
+                <div class="editor-label">
+                    <input type="text" id="txtName2" />
+                </div>
+                <div class="editor-label">
+                    salary
+                </div>
+                <div class="editor-label">
+                    <input type="text" id="txtSalary" />
+                </div>
+
+
+
+                <div class="editor-label">
+                    City
+                </div>
+                
+                <div class="editor-label">
+                    <select name="cars" id="txtCity">
+                        <option selected="selected" value="volvo" id="v">Dhaka</option>
+                        <option selected="selected" value="saab" id="s">Sylhet</option>
+                        
+                    </select>
+                </div>
+                <div class="editor-label">
+                    <br />
+                    <input class="btn-danger" type="button" id="btnSave" value="Save" />
+                </div>
+            </div>
+       
+      
+    
+        </form>
+    <script>
+        $(function () {
+            $("#btnSave").click(function () {
+                $.ajax(
+                {
+                    type: "POST", //HTTP POST Method
+
+                    url: "/Home/Add_data", // Controller/View
+                    data: { //Passing data
+                        ID: $("#id").val(),
+                        FirstName: $("#txtName1").val(), //Reading text box values using Jquery
+                        LastName: $("#txtName2").val(),
+                        Salary: $("#txtSalary").val(),
+                        //City: $("#txtCity").val(),
+                        City: $("#txtCity option:selected").text()
+                    },
+                    success: function (da) {
+                        alert(da);
+                    }
+                    
+                    
+                  
+
+
+                    
+                });
+
+            });
+        });
+
+
+    </script>
+</fieldset>
+
+    <fieldset>
+        <div>
+        <table id="tbldata" border="1">
+            <tr>
+                <th>Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Salary</th>
+                <th>City</th>
+
+            </tr>
+
+
+        </table>
+           
+        </div>
+        <div>
+            <select id="Select1" name="D1"></select>
+        </div>
+        <script>
+            $(function(){
+                $.get("get_data",{},function(data){
+                    var row;
+                    var list;
+                    //var optionhtml;
+                    $.each(data, function (i, v1) {
+                        row += "<tr><td>" + v1.id + "</td><td>" + v1.FirstName + "</td><td>"+ v1.LastName +"</td><td>" + v1.Salary + "</td><td>"+ v1.City + "</td></tr>"
+                       // optionhtml+= '<option value="' +
+                //v1.FirstName + '">'+'</option>';
+                    });
+                    $("#tbldata").append(row);
+                   // $("#txtCity").append(optionhtml);
+                })
+            })
+            $(function () {
+                $.get("get_data", {}, function (data) {
+                    var items;
+                    //var optionhtml;
+                    $.each(data, function (i, val) {
+                        items += "<option value='" + val.id + "'>" + val.FirstName + "</option>";
+                    });
+                    //$("#tbldata").append(row);
+                    // $("#txtCity").append(optionhtml);
+                    var header = '<option value=\'\'>Select...</option>';
+                    $('#Select1').html(header + items);
+                })
+            })
+        </script>
+
+    </fieldset>
+    </body>
+</html>
